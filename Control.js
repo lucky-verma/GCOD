@@ -1,4 +1,3 @@
-// CONTROLLING A HELICOPTER USING LEAP MOTION WITH AN ARDUINO 
 
 // programmed in javascript but controls arduino 
 //used johnny five libraries to do so 
@@ -64,7 +63,7 @@ board.on('ready', function() {
 
 
 
-         // safety when the hand is not there, the helicopter is turned off immediately 
+         // safety when the hand is not there, the drone is turned off immediately 
         }
         else {
             led.off();
