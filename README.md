@@ -17,4 +17,14 @@ Credits to http://marc-tetrapod.blogspot.sg/2012/10/arduino-ssc-32-servo.html fo
 <img src="setup.jpg" width="350"/> 
 Final setup
 
-<button src="https://drive.google.com/file/d/18olngYHNSDqcq-JqHmLv9OlQpiyNV-lx/view?usp=sharing" width="50"/>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+
+<h1>Project video</h1>
+<p>https://drive.google.com/file/d/18olngYHNSDqcq-JqHmLv9OlQpiyNV-lx/view?usp=sharing</p>
+
+</body>
+</html>
