@@ -17,3 +17,4 @@ Credits to http://marc-tetrapod.blogspot.sg/2012/10/arduino-ssc-32-servo.html fo
 <img src="1.jpg" width="350"/> 
 Final setup
 
+<img src="https://drive.google.com/file/d/18olngYHNSDqcq-JqHmLv9OlQpiyNV-lx/view?usp=sharing" width="100"/>
